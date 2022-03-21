@@ -1,0 +1,109 @@
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.exe.config
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.exe
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.pdb
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csprojAssemblyReference.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\MainWindow.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\App.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B_MarkupCompile.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B_MarkupCompile.lref
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\MainWindow.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.g.resources
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.Properties.Resources.resources
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csproj.GenerateResource.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csproj.CoreCompileInputs.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.exe
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.pdb
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\RechercheClient.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\RechercheClient.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageDuClient.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageDuClient.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AjouterClient.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AjouterClient.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixDeLaPizza.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixDeLaPizza.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixBoisson.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixBoisson.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageCommande.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageCommande.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\SelectionCommis.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\Copie\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\SelectionCommis.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.exe.config
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.exe
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.pdb
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csprojAssemblyReference.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageCommande.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageDuClient.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AjouterClient.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixBoisson.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixDeLaPizza.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\MainWindow.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\RechercheClient.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\SelectionCommis.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\App.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B_MarkupCompile.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B_MarkupCompile.lref
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageCommande.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageDuClient.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AjouterClient.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixBoisson.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixDeLaPizza.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\MainWindow.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\RechercheClient.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\SelectionCommis.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.g.resources
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.Properties.Resources.resources
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csproj.GenerateResource.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csproj.CoreCompileInputs.cache
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.exe
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.pdb
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommandes.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommandes.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesClients.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\EffectifEtClients.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesClients.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\EffectifEtClients.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommis.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommis.baml
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesLivreurs.g.cs
+C:\Users\eiize\Desktop\ESILV\Prog. orientée objet avancée\Probleme\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesLivreurs.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.exe.config
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.exe
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\bin\Debug\BENYEMNA_BURY_B.pdb
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageCommande.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageDuClient.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesClients.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommandes.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommis.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesLivreurs.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AjouterClient.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixBoisson.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixDeLaPizza.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\EffectifEtClients.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\MainWindow.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\RechercheClient.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\SelectionCommis.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\App.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B_MarkupCompile.cache
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B_MarkupCompile.lref
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageCommande.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AffichageDuClient.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesClients.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommandes.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesCommis.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AfficherLesLivreurs.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\AjouterClient.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixBoisson.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\ChoixDeLaPizza.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\EffectifEtClients.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\MainWindow.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\RechercheClient.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\SelectionCommis.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.g.resources
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.Properties.Resources.resources
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.csproj.GenerateResource.cache
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.exe
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S5\POO\Problème\BENYEMNA_BURY_B\BENYEMNA_BURY_B\BENYEMNA_BURY_B\obj\Debug\BENYEMNA_BURY_B.pdb

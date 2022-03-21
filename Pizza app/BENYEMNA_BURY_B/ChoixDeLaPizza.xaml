@@ -1,0 +1,46 @@
+﻿<Window x:Class="BENYEMNA_BURY_B.ChoixDeLaPizza"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BENYEMNA_BURY_B"
+        mc:Ignorable="d"
+        Title="ChoixDeLaPizza" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="pizzaChoisie" Text="" HorizontalAlignment="Center" Margin="322,150,321.6,246" BorderThickness="2" VerticalAlignment="Center" Width="150" Height="24">
+            <ComboBoxItem x:Name="margherita">
+                Margherita
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="royale">
+                Royale
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="chevreMiel">
+                Chèvre Miel
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="quatreFromages">
+                Quatre Fromages
+            </ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="taille" Text="" HorizontalAlignment="Center" Margin="322,293,321.6,101" BorderThickness="2" VerticalAlignment="Center" Width="150" Height="26">
+            <ComboBoxItem x:Name="petite">
+                Petite
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="moyenne">
+                Moyenne
+            </ComboBoxItem>
+            <ComboBoxItem x:Name="grande">
+                Grande
+            </ComboBoxItem>
+        </ComboBox>
+        <Button Content="Retour" HorizontalAlignment="Left" Margin="10,391,0,0" VerticalAlignment="Top" Width="75" Click="RetourRechrcheClient"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Margin="709,391,0,0" VerticalAlignment="Top" Width="75" Click="ValiderCommande"/>
+        <Button Content="Reset" HorizontalAlignment="Left" Margin="10,300,0,0" VerticalAlignment="Top" Width="75" Click="Reset"/>
+        <Button x:Name="Ajouter" Content="Ajouter" HorizontalAlignment="Left" Margin="709,300,0,0" VerticalAlignment="Top" Width="75" Click="AjouterPizza"/>
+        <Button Content="Supplément" HorizontalAlignment="Left" Margin="709,347,0,0" VerticalAlignment="Top" Width="75" Click="Suplement"/>
+        <Button Content="Supprimer" HorizontalAlignment="Left" Margin="10,347,0,0" VerticalAlignment="Top" Width="75" Click="Supprimer"/>
+        <TextBlock HorizontalAlignment="Left" Margin="262,150,0,0" TextWrapping="Wrap" Text="Type: " TextAlignment="Center" VerticalAlignment="Top" Height="24" Width="60"/>
+        <TextBlock HorizontalAlignment="Left" Margin="322,108,0,0" TextWrapping="Wrap" Text="Pizza" TextAlignment="Center"  VerticalAlignment="Top" Width="150"  Height="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="262,296,0,0" TextWrapping="Wrap" Text="Taille: " TextAlignment="Center" VerticalAlignment="Top" Height="24" Width="60"/>
+
+    </Grid>
+</Window>

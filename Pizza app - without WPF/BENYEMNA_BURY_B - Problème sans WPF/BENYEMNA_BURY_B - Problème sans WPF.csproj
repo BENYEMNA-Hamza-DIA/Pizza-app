@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>BENYEMNA_BURY_B___Problème_sans_WPF</RootNamespace>
+  </PropertyGroup>
+
+</Project>

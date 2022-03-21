@@ -1,0 +1,43 @@
+﻿<Window x:Class="BENYEMNA_BURY_B.AffichageCommande"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BENYEMNA_BURY_B"
+        mc:Ignorable="d"
+        Title="AffichageCommande" Height="450" Width="800">
+    <Window.Resources>
+        <ObjectDataProvider ObjectType="{x:Type local:Pizza}"
+                      MethodName="ToString" x:Key="toString">
+        </ObjectDataProvider>
+    </Window.Resources>
+    <Grid>
+        <ListView x:Name="pizzas" Canvas.Left="375" Canvas.Top="54" ItemsSource="{Binding this.commande.ListePizzas, Mode= OneWay}" Margin="0,10,-0.4,255">
+            <ListView.Resources>
+                <ObjectDataProvider MethodName="PrixToString" x:Key="calculPrix"/>
+                <DataTemplate x:Key="prixPizza">
+                    <TextBlock Width="300" Text="{Binding Source={StaticResource calculPrix},Mode=OneWay}"/>
+                </DataTemplate>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Pizza(s)" Width="500" />
+                    <GridViewColumn Header="Prix" Width="300" DisplayMemberBinding="{Binding Prix, Mode=OneWay}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="boissons" Canvas.Left="375" Canvas.Top="54" ItemsSource="{Binding this.commande.ListeBoissons, Mode= OneWay}" Margin="0,166,-0.4,99">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Boisson(s)" Width="500"/>
+                    <GridViewColumn Header="Prix" Width="300" DisplayMemberBinding="{Binding Prix, Mode=OneWay}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Retour" HorizontalAlignment="Left" Margin="10,391,0,0" VerticalAlignment="Top" Width="75" Click="RetourChoixPizza"/>
+        <Button Content="Suivant" HorizontalAlignment="Left" Margin="709,391,0,0" VerticalAlignment="Top" Width="75" Click="SelectionnerLeCommis"/>
+        <TextBlock x:Name="prixTotal" HorizontalAlignment="Left" Margin="530,350,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" Height="20"/>
+        <TextBlock x:Name="Total" HorizontalAlignment="Left" Margin="450,350,0,0" TextWrapping="Wrap" Text="Prix Total:" TextAlignment="Center" VerticalAlignment="Top" Width="75" Height="20"/>
+
+    </Grid>
+</Window>
